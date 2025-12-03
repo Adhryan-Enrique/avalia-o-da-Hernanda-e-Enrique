@@ -1,0 +1,3 @@
+Arrays: São coleções de elementos do mesmo tipo, com um tamanho fixo que é definido durante a declaração. Os elementos são acessados por meio de um índice numérico.
+
+Listas: São coleções dinâmicas de elementos do mesmo tipo, cujo tamanho pode ser alterado dinamicamente durante a execução do programa. As listas oferecem métodos para adicionar, remover e acessar elementos de forma mais flexível.
