@@ -1,0 +1,1 @@
+    A definição da estrutura de fila e que o primeiro dado a ser inserido é o primeiro a sair, como se fosse uma fila indiana em um banco, ou seja. o primeiro a chegar via ser o primeiro a ser atendido.
